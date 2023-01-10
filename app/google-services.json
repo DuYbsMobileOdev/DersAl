@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779442292619",
+    "project_id": "ders-al",
+    "storage_bucket": "ders-al.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779442292619:android:5da4b6d9122838964c518e",
+        "android_client_info": {
+          "package_name": "com.mustafageldi.dersal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779442292619-a3ca76cvqpjs7noogn9fal9i2qmjk7nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wUAlUov_mzVrZQm9SWnj3EYXmGQlKI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779442292619-a3ca76cvqpjs7noogn9fal9i2qmjk7nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
